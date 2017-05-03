@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1300px" height="1000px" xml:lang="fr"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<rect x="0" y="0" width="1300" height="1000" fill="limegreen" opacity="1"></rect><rect x="0" y="0" width="1300" height="350" fill="skyblue" opacity="1"></rect><ellipse cx="1200" cy="100" rx="70" ry="70" fill="yellow" opacity="1"></ellipse><ellipse cx="800" cy="75" rx="150" ry="50" fill="white" opacity="1">
+			<animate attributeName="rx" attributeType="XML"
+			repeatCount = "1"
+			id="anim80"
+			fill="freeze"
+			from="150" to="125"
+			begin="0s; anim81.end" dur="3s"/>
+			<animate attributeName="rx" attributeType="XML"
+			id="anim81"
+			fill="freeze"
+			from="125" to="150"
+			begin="anim80.end" dur="3s"/></ellipse><ellipse cx="800" cy="120" rx="50" ry="50" fill="white" opacity="1">
+			<animate attributeName="rx" attributeType="XML"
+			repeatCount = "1"
+			id="anim80"
+			fill="freeze"
+			from="50" to="25"
+			begin="0s; anim81.end" dur="2s"/>
+			<animate attributeName="rx" attributeType="XML"
+			id="anim81"
+			fill="freeze"
+			from="25" to="50"
+			begin="anim80.end" dur="2s"/></ellipse><ellipse cx="800" cy="0" rx="250" ry="50" fill="white" opacity="1">
+			<animate attributeName="rx" attributeType="XML"
+			repeatCount = "1"
+			id="anim80"
+			fill="freeze"
+			from="250" to="225"
+			begin="0s; anim81.end" dur="1s"/>
+			<animate attributeName="rx" attributeType="XML"
+			id="anim81"
+			fill="freeze"
+			from="225" to="250"
+			begin="anim80.end" dur="1s"/></ellipse><rect x="750" y="200" width="100" height="150" fill="grey" opacity="1"></rect><ellipse cx="350" cy="650" rx="350" ry="150" fill="black" opacity="1"><animate attributeName="rx" attributeType="XML"
+			repeatCount = "1"
+			id="anim7"
+			fill="freeze"
+			from="350" to="0"
+			begin="0s; anim50.end+2s" dur="6s"/>
+			<animate attributeName="rx" attributeType="XML"
+			id="anim8"
+			fill="freeze"
+			from="0" to="350"
+			begin="anim7.end" dur="0.1s"/></ellipse><rect x="100" y="200" width="500" height="800" fill="black" opacity="1"></rect><rect x="245" y="610" width="100" height="200" fill="white" opacity="1"><animate attributeName="height" attributeType="XML"
+			repeatCount="15"
+			id="anim20"
+			fill="freeze"
+			from="0" to="200"
+			begin="anim12.end; anim21.end" dur="0.1s"/>
+			</rect><rect x="355" y="610" width="100" height="200" fill="white" opacity="1">
+			<animate attributeName="height" attributeType="XML"
+			id="anim22"
+			repeatCount="15"
+			fill="freeze"
+			from="0" to="200"
+			begin="anim12.end; anim23.end" dur="0.1s"/></rect><ellipse cx="250" cy="400" rx="125" ry="125" fill="white" opacity="1"><animate attributeName="ry" attributeType="XML"
+			repeatCount = "1"
+			id="anim1"
+			fill="freeze"
+			from="125" to="0"
+			begin="0s; anim3.end" dur="0.1s"/>
+			<animate attributeName="ry" attributeType="XML"
+			id="anim2"
+			fill="freeze"
+			from="0" to="125"
+			begin="anim1.end" dur="0.1s"/>
+			<animate attributeName="ry" attributeType="XML"
+			id="anim3"
+			fill="freeze"
+			from="125" to="125"
+			begin="anim2.end" dur="2s"/></ellipse><ellipse cx="450" cy="400" rx="100" ry="100" fill="white" opacity="1"><animate attributeName="ry" attributeType="XML"
+			repeatCount = "1"
+			id="anim4"
+			fill="freeze"
+			from="100" to="0"
+			begin="0s; anim6.end" dur="0.1s"/>
+			<animate attributeName="ry" attributeType="XML"
+			id="anim5"
+			fill="freeze"
+			from="0" to="100"
+			begin="anim4.end" dur="0.1s"/>
+			<animate attributeName="ry" attributeType="XML"
+			id="anim6"
+			fill="freeze"
+			from="100" to="100"
+			begin="anim5.end" dur="2s"/></ellipse><ellipse cx="250" cy="350" rx="20" ry="20" fill="black" opacity="1"></ellipse><ellipse cx="450" cy="350" rx="20" ry="20" fill="black" opacity="1"></ellipse><ellipse cx="150" cy="150" rx="60" ry="150" fill="black" opacity="1"></ellipse><ellipse cx="550" cy="150" rx="60" ry="150" fill="black" opacity="1"></ellipse><ellipse cx="150" cy="150" rx="40" ry="120" fill="white" opacity="1"></ellipse><ellipse cx="550" cy="150" rx="40" ry="120" fill="white" opacity="1"></ellipse><polygon points="300 540,400 540,350 600" fill="white" opacity="1"></polygon><ellipse cx="750" cy="620" rx="220" ry="220" fill="red" opacity="1"></ellipse><ellipse cx="750" cy="620" rx="180" ry="180" fill="white" opacity="1"></ellipse><ellipse cx="750" cy="620" rx="140" ry="140" fill="red" opacity="1"></ellipse><ellipse cx="750" cy="620" rx="100" ry="100" fill="blue" opacity="1"></ellipse><polygon points="25 500,75 500,50 650" fill="orange" opacity="1"><animateTransform attributeName="transform" attributeType="XML" id="anim10"
+			type="rotate"
+			from="360 25 500" to="330 25 500"
+			begin="0s; anim50.end+2s" dur="3s"
+			fill="freeze"
+			/>
+			<animate
+			id="anim11"
+			attributeName="points"
+			values="25 500,75 500,50 650; 200 750, 250 750, 225 900"
+			begin="anim10.begin"
+			dur="3s"
+			/>
+			<animate
+			id="anim30"
+			attributeName="opacity"
+			values="0"
+			begin="anim11.end"
+			dur="3.5s"
+			/></polygon><polygon points="25 425,75 450,50 500" fill="green" opacity="1"><animateTransform attributeName="transform" attributeType="XML" id="anim12"
+			type="rotate"
+			from="360 25 500" to="330 25 500"
+			begin="anim10.begin" dur="3s"
+			fill="freeze"
+			/>
+			<animate
+			id="anim13"
+			attributeName="points"
+			values="25 425,75 450,50 500; 200 675,250 700,225 750"
+			begin="anim10.begin"
+			dur="3s"
+			/>
+			<animate
+			id="anim31"
+			attributeName="opacity"
+			values="0"
+			begin="anim13.end"
+			dur="3.5s"
+			/></polygon><polygon points="250 650,300 650,275 685" fill="green" opacity="0"><animateTransform attributeName="transform" attributeType="XML" id="anim50"
+			type="translate"
+			repeatCount = "3"
+			from="0" to="-150"
+			begin="anim11.end;" dur="0.5s"
+			fill="freeze"
+			/>
+			<animate
+			id="anim40"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="1"
+			begin="anim11.end;"
+			dur="0.5s"
+			/>
+			<animate
+			id="anim41"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="0"
+			begin="anim40.end"
+			dur="0.5s"/></polygon><polygon points="380 710,430 710,405 675" fill="orange" opacity="0"><animateTransform attributeName="transform" attributeType="XML" id="anim51"
+			type="translate"
+			repeatCount = "3"
+			from="0" to="150"
+			begin="anim11.end;" dur="0.5s"
+			fill="freeze"
+			/>
+			<animate
+			id="anim42"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="1"
+			begin="anim11.end;"
+			dur="0.5s"
+			/>
+			<animate
+			id="anim43"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="0"
+			begin="anim42.end"
+			dur="0.5s"/></polygon><polygon points="300 750,340 750,320 800" fill="orange" opacity="0"><animateTransform attributeName="transform" attributeType="XML" id="anim50"
+			type="translate"
+			repeatCount = "3"
+			from="0" to="150"
+			begin="anim11.end;" dur="0.5s"
+			fill="freeze"
+			/>
+			<animate
+			id="anim44"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="1"
+			begin="anim11.end;"
+			dur="0.5s"
+			/>
+			<animate
+			id="anim45"
+			repeatCount = "3"
+			attributeName="opacity"
+			values="0"
+			begin="anim44.end"
+			dur="0.5s"
+			/></polygon><polygon fill="white" points="750,520 780,579 846,589 798,635 809,700 750,670 692,700 703,635 655,589 721,579" ></polygon>
+    </svg>
